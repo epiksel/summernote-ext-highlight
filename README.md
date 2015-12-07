@@ -1,5 +1,7 @@
-# summernote-ext-highlight
-Based on [Google code-prettify](https://github.com/google/code-prettify) the [summernote](https://github.com/summernote/summernote) code highlighting plugin
+# Summernote Syntax Highlighting
+Based on [Google code-prettify](https://github.com/google/code-prettify) the [Summernote](https://github.com/summernote/summernote) code highlighting plugin
+
+[DEMO PAGE](https://epiksel.github.io/summernote-ext-highlight)
 
 ## Setup
  * Include summernote project script
@@ -20,13 +22,12 @@ $('.summernote').summernote({
         // Add highlight plugin
         ['highlight', ['highlight']],
     ],
-    lang:'zh-CN'
+    lang:'tr-TR'
 });
 ```
 ## Contacts
-* Email: yanlong_he@163.com
-* Twitter: https://twitter.com/YanlongHe
-* Website: https://www.hyl.pw/
+* Twitter: https://twitter.com/epiksel
+* Website: https://e-piksel.com
 
 ## License
 summernote-ext-highlight may be freely distributed under the MIT license.
