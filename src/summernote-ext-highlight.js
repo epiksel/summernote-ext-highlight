@@ -144,7 +144,7 @@
                     '<option value="perl">perl</option>' +
                     '<option value="php">php</option>' +
                     '<option value="proto">proto</option>' +
-                    '<option value="py">py</option>'
+                    '<option value="py">py</option>' +
                     '<option value="r">r</option>' +
                     '<option value="rb">rb</option>' +
                     '<option value="rd">rd</option>' +
