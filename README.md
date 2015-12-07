@@ -1,5 +1,5 @@
 # Summernote Syntax Highlighting
-Based on [Google code-prettify](https://github.com/google/code-prettify) the [Summernote](https://github.com/summernote/summernote) code highlighting plugin
+Based on [Google code-prettify](https://github.com/google/code-prettify) the [Summernote](https://github.com/summernote/summernote) code highlighting plugin. [Color themes](http://jmblog.github.io/color-themes-for-google-code-prettify/) for Google Code Prettify
 
 [DEMO PAGE](https://epiksel.github.io/summernote-ext-highlight)
 
