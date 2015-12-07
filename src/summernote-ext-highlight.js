@@ -1,6 +1,6 @@
 /*!
- * summernote highlight plugin
- * http://www.heyanlong.com/
+ * Summernote Syntax Highlighting
+ * http://epiksel.github.io/summernote-ext-highlight/
  *
  * Released under the MIT license
  */
