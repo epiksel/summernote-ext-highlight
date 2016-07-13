@@ -1,7 +1,8 @@
 /*!
  * Summernote Syntax Highlighting
  * http://epiksel.github.io/summernote-ext-highlight/
- * http://www.hyl.pw/
+ * http://e-piksel.com
+ * Original Author: http://www.hyl.pw/
  *
  * Released under the MIT license
  */
