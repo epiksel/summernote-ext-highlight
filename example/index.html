@@ -18,8 +18,8 @@
     <script type="text/javascript" src="https://rawgit.com/google/code-prettify/master/src/prettify.js"></script>
 
     <!-- include summernote -->
-    <link rel="stylesheet" href="https://rawgit.com/summernote/summernote/v0.6.16/dist/summernote.css">
-    <script type="text/javascript" src="https://rawgit.com/summernote/summernote/v0.6.16/dist/summernote.min.js"></script>
+    <link rel="stylesheet" href="https://rawgit.com/summernote/summernote/v0.8.1/dist/summernote.css">
+    <script type="text/javascript" src="https://rawgit.com/summernote/summernote/v0.8.1/dist/summernote.min.js"></script>
     <script type="text/javascript" src="https://rawgit.com/epiksel/summernote-highlight/master/dist/summernote-ext-highlight.min.js"></script>
 
     <script type="text/javascript">
@@ -34,8 +34,7 @@
             });
 
             $('.preview-btn').click(function () {
-                $('#preview-box').html($('.summernote').code());
-                $('.summernote').code('');
+                $('#preview-box').html($('.summernote').summernote('code'));
                 prettyPrint();
             });
         });
